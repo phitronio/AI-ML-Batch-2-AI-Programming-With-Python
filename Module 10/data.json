@@ -1,0 +1,23 @@
+[
+  {
+    "StudentID": "PH1001",
+    "FullName": "Alif Rahman",
+    "Data Structure Marks": 85,
+    "Algorithm Marks": 85,
+    "Python Marks": 88
+  },
+  {
+    "StudentID": "PH1002",
+    "FullName": "Fatima Akhter",
+    "Data Structure Marks": 92,
+    "Algorithm Marks": 92,
+    "Python Marks": 90
+  },
+  {
+    "StudentID": "PH1004",
+    "FullName": "Jannatul Ferdous",
+    "Data Structure Marks": 78,
+    "Algorithm Marks": 78,
+    "Python Marks": 82
+  }
+]
